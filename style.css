@@ -129,6 +129,7 @@ body
     align-items: center;
     background-color: hsl(210, 46%, 95%);
     border-radius: 50%;
+    cursor: pointer;
 }
 .share-bg
 {
